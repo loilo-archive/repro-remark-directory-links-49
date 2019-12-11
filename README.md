@@ -1,6 +1,16 @@
 # Headline
 
-This is a repro for [remarkjs/remark-validate-links#XXX](https://github.com/remarkjs/remark-validate-links/issues/XXX).
+This is a repro for [remarkjs/remark-validate-links#49](https://github.com/remarkjs/remark-validate-links/issues/49).
+
+## Get started
+
+```sh
+# Install remark dependencies
+npm install
+
+# Run remark on README.md and subfolder/README.md
+npm start
+```
 
 ## Link to subfolder
 
